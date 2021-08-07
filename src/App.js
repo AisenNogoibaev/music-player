@@ -1,7 +1,7 @@
 import './App.css'
 
 function App() {
-	return <div className='App'>MusicPlayer</div>
+	return <div className='App'>sdfsd</div>
 }
 
 export default App
